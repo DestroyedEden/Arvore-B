@@ -5,6 +5,5 @@ O mesmo busca analisar questões envolvendo tempo de processamento e complexidad
 
 Alunos: Lucas Roberto e Mariane Santos (https://github.com/marianebsantos)
 
-[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/DestroyedEden/Arvore-b/HEAD)
 
 Serão adicionados: Instruções de uso, de como está organizada a estrutura do repositório e exemplos de uso
