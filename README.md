@@ -5,7 +5,13 @@ O mesmo busca analisar questões envolvendo tempo de processamento e complexidad
 
 Alunos: Lucas Roberto e Mariane Santos (https://github.com/marianebsantos)
 
+Instruções de uso: Basta clicar no botão abaixo escrito "Binder" que você será redirecionado a um ambiente com o notebook
+
 [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/DestroyedEden/Arvore-b/main)
 
+Organização da estrutura: O repositório consiste em 3 arquivos. 
+* README.md consiste de algumas informações úteis para o melhor entendimento da utilização do código.
+* arvore_B2.ipynb consiste no notebook com o código em si
+* environment.yml consiste nas definições que permitem a utilização do kernel c++ no Binder, pela utilização do xeus-cling
 
-Serão adicionados: Instruções de uso, de como está organizada a estrutura do repositório e exemplos de uso
+Serão adicionados exemplos de uso
