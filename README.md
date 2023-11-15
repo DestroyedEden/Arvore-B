@@ -13,4 +13,4 @@ Organização da estrutura: O repositório consiste em 3 arquivos.
 * arvore_B2.ipynb consiste no notebook com o código em si
 * environment.yml consiste nas definições que permitem a utilização do kernel c++ no Binder, em especial a versão utilizada do xeus-cling 
 
-Serão adicionados exemplos de uso
+Link útil para visualização de árvores B online: https://www.cs.usfca.edu/~galles/visualization/BTree.html
