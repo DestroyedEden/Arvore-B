@@ -8,9 +8,10 @@ Instruções de uso: Basta clicar no botão abaixo escrito "Binder" que você se
 
 [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/DestroyedEden/Arvore-b/main)
 
-Organização da estrutura: O repositório consiste em 3 arquivos. 
+Organização da estrutura: O repositório consiste em 4 arquivos. 
 * README.md consiste de algumas informações úteis para o melhor entendimento da utilização do código.
 * arvore_B2.ipynb consiste no notebook com o código em si
-* environment.yml consiste nas definições que permitem a utilização do kernel c++ no Binder, em especial a versão utilizada do xeus-cling 
+* environment.yml consiste nas definições que permitem a utilização do kernel c++ no Binder, em especial a versão utilizada do xeus-cling
+* Arvores_B_Relatorio: consiste no artigo contendo o que foi feito, os resultados obtidos e conclusões
 
 Link útil para visualização de árvores B online: https://www.cs.usfca.edu/~galles/visualization/BTree.html
